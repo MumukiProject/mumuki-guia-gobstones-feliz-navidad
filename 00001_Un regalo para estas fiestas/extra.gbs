@@ -8,6 +8,12 @@ procedure DibujarFilaAlEste(largo, color) {
   MoverN(largo - 1, Oeste)
 }
 
+procedure PonerLejosAlEste(cantidad, color) {
+  MoverN(cantidad, Este)
+  Poner(color)
+  MoverN(cantidad, Oeste)
+}
+
 procedure MoverN(cantidad, direccion) {
   repeat (cantidad) {
     Mover(direccion)
