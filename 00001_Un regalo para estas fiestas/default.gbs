@@ -1,0 +1,17 @@
+procedure DesearFelicesFiestas() {
+  foreach largo in [7, 5, 3] {
+    DibujarFilaAlEste(largo, Verde)
+    Mover(Norte)
+    Mover(Este)
+  }
+  Poner(Verde)
+
+  Mover(Norte)
+  PonerEstrella()
+}
+
+procedure PonerEstrella() {
+  Poner(Rojo)
+  Poner(Azul)
+}
+
