@@ -6,4 +6,4 @@ _¿Querés conocer más sobre el proyecto?_
 <br>
 Entrá a http://mumuki.org/ y enterate de qué se trata todo esto. :clipboard:
 
-De todas formas, te deseamos un gran comienzo de año y te agradecemos el interés. ¡Brindemos por un 2017 en el cual mucha más gente pueda descubrir la programación y empezar a entender un poco más sobre el mundo que nos rodea! :beers:
+Te deseamos un gran comienzo de año y te agradecemos el interés por Mumuki. **¡Por un 2017 en el cual mucha más gente pueda descubrir la programación y empezar a entender un poco más sobre el mundo que nos rodea!** :beers:
