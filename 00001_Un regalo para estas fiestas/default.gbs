@@ -1,5 +1,6 @@
 procedure DesearFelicesFiestas() {
   PonerLejosAlEste(3, Verde)
+  Mover(Norte)
   
   foreach largo in [7, 5, 3] {
     DibujarFilaAlEste(largo, Verde)
