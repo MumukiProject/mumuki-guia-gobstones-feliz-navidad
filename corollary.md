@@ -8,4 +8,4 @@ Entrá a http://mumuki.org/ y enterate de qué se trata todo esto. :clipboard:
 
 Te deseamos un gran comienzo de año y te agradecemos el interés por Mumuki. 
 
-**¡Por un 2017 en el cual mucha más gente pueda descubrir la programación y empezar a entender un poco más sobre el mundo que nos rodea!** :beers:
+**¡Por un 2017 en el cual mucha más gente pueda descubrir la programación y entender un poco más sobre el mundo que nos rodea!** :beers:
