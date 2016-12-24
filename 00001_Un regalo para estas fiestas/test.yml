@@ -3,9 +3,9 @@ subject: DesearFelicesFiestas
 examples:
  - initial_board: |
      GBB/1.0
-     size 7 5
+     size 7 6
      head 0 0
    final_board: |
      GBB/1.0
-     size 7 5
+     size 7 6
      head 0 0
