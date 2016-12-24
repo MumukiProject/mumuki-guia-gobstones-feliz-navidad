@@ -1,0 +1,15 @@
+procedure DibujarFilaAlEste(largo, color) {
+  repeat (largo - 1) {
+    Poner(color)
+    Mover(Este)
+  }
+  
+  Poner(color)
+  MoverN(largo - 1, Oeste)
+}
+
+procedure MoverN(cantidad, direccion) {
+  repeat (cantidad) {
+    Mover(direccion)
+  }
+}
