@@ -1,11 +1,11 @@
 ---
-name: ¡Felices fiestas!
+name: "¡Felices fiestas!"
 locale: es
 type: learning
 beta: false
 teacher_info: ''
 language: gobstones
-id_format: '%05d'
+id_format: "%05d"
 order:
 - 1
 - 2
